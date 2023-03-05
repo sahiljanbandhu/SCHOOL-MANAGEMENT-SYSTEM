@@ -21,7 +21,7 @@ It is an Web Application based on jsp-servlet crud operations which includes bot
 ### Front End View;- 
 1. **Home Page** (run as server **School.html** page)<br> 
 ![image](https://user-images.githubusercontent.com/22257930/222957037-19067d7c-ceed-4af8-ba97-cc4f0ca83f40.png) <br>
-2. **Manage Student Details* <br>
+2. **Manage Student Details** <br>
  ![image](https://user-images.githubusercontent.com/22257930/222957234-8bd51d7b-e05f-4a0f-a910-80c546e82e61.png) <br>
 3. **Manage Teacher Details** <br>
 ![image](https://user-images.githubusercontent.com/22257930/222957252-8497be7c-06d8-4b79-aa10-9a0c33ea4893.png) <br>
@@ -29,6 +29,12 @@ It is an Web Application based on jsp-servlet crud operations which includes bot
 ![image](https://user-images.githubusercontent.com/22257930/222957304-564f9692-5385-40fb-b2c7-460c8afdac7e.png) <br>
 5. **View All Teacher Details** <br>
 ![image](https://user-images.githubusercontent.com/22257930/222957278-543d6f43-444a-4130-be35-297a34bea602.png) <br>
+6. **Update Student** <br>
+![image](https://user-images.githubusercontent.com/22257930/222957390-ba8668e8-23c2-479a-959e-cda4eaa226af.png) <br>
+7. **Delete Teacher** <br> 
+![image](https://user-images.githubusercontent.com/22257930/222957484-13cf9a11-b403-4230-8643-accb41b10f3c.png) <br>
+
+
 
 ### All Tables from Database(MySQL);-
 ![image](https://user-images.githubusercontent.com/22257930/222956742-f926a84d-1330-4e05-a0d8-6193bbbd63e9.png) <br>
