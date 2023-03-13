@@ -5,7 +5,6 @@ It is an Web Application based on jsp-servlet crud operations which includes bot
 1. School Management System is an frond-end and back-end project based on Servlet(jsp, httpservlet).
 2. This project has 2 Modules are as Follows: <br> 1. **Teacher** <br> 2. **Student** <br> 
 
-
 ### Tools and Technologies used:-
 
 1. Eclipse IDE
